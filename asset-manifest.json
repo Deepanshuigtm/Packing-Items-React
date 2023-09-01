@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deepanshuigtm/Packing-Items-React.git/static/css/main.fdc828fe.css",
+    "main.js": "/Deepanshuigtm/Packing-Items-React.git/static/js/main.e3676a54.js",
+    "index.html": "/Deepanshuigtm/Packing-Items-React.git/index.html",
+    "main.fdc828fe.css.map": "/Deepanshuigtm/Packing-Items-React.git/static/css/main.fdc828fe.css.map",
+    "main.e3676a54.js.map": "/Deepanshuigtm/Packing-Items-React.git/static/js/main.e3676a54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdc828fe.css",
+    "static/js/main.e3676a54.js"
+  ]
+}
